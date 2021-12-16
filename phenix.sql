@@ -1,8 +1,3 @@
-asdlhsjkdlnvcas
-aslkdvbsjklcnv
-wdlkcjnslkadcn
-sldkcjnwdkljcn
-sdlckjslkacjn-- MySQL dump 10.13  Distrib 8.0.25, for macos10.13 (x86_64)
 --
 -- Host: localhost    Database: phenix
 -- ------------------------------------------------------
